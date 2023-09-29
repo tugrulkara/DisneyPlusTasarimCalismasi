@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/anasayfa_icon"
+        android:enabled="true"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/aramaFragment"
+        android:icon="@drawable/arama_icon"
+        android:enabled="true"
+        android:title="Arama" />
+    <item
+        android:id="@+id/indirilenlerFragment"
+        android:icon="@drawable/indirme_icon"
+        android:enabled="true"
+        android:title="İndirilenler" />
+    <item
+        android:id="@+id/profilFragment"
+        android:icon="@drawable/profil_icon"
+        android:enabled="true"
+        android:title="Profil" />
+</menu>

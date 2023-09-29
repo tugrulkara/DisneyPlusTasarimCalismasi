@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DisneyPlusTasarimCalismasi</string>
+
+    <string name="one_cikanlar_baslik">Disney+\'ta Öne Çıkanlar</string>
+    <string name="oneriler_baslik">Sana Özel Öneriler</string>
+    <string name="sadece_disney_baslik">Sadece Disney+\'ta</string>
+    <string name="en_cok_izlenenler_baslik">En Çok İzlenenler</string>
+</resources>
