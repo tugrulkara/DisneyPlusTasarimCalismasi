@@ -24,7 +24,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-
             <ImageView
                 android:id="@+id/imageViewToolbar"
                 android:layout_width="100dp"
@@ -78,8 +77,6 @@
 
             </LinearLayout>
 
-
-
         </com.google.android.material.card.MaterialCardView>
 
         <com.google.android.material.card.MaterialCardView
@@ -90,7 +87,6 @@
             app:cardCornerRadius="7dp"
             app:cardElevation="30dp"
             app:strokeWidth="0.6dp"
-
             app:strokeColor="@color/cardStrokeRenk"
             app:layout_constraintEnd_toStartOf="@+id/cardViewMarvel"
             app:layout_constraintHorizontal_bias="0.5"
